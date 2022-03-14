@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\miram\\source\\repos\\1itc_RPG\\1itc_RPG\\1itc_RPG.csproj": {}
+    "C:\\Users\\miram\\OneDrive\\1ITC\\1ITC\\1itc_RPG\\1itc_RPG\\1itc_RPG.csproj": {}
   },
   "projects": {
-    "C:\\Users\\miram\\source\\repos\\1itc_RPG\\1itc_RPG\\1itc_RPG.csproj": {
+    "C:\\Users\\miram\\OneDrive\\1ITC\\1ITC\\1itc_RPG\\1itc_RPG\\1itc_RPG.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\miram\\source\\repos\\1itc_RPG\\1itc_RPG\\1itc_RPG.csproj",
+        "projectUniqueName": "C:\\Users\\miram\\OneDrive\\1ITC\\1ITC\\1itc_RPG\\1itc_RPG\\1itc_RPG.csproj",
         "projectName": "1itc_RPG",
-        "projectPath": "C:\\Users\\miram\\source\\repos\\1itc_RPG\\1itc_RPG\\1itc_RPG.csproj",
+        "projectPath": "C:\\Users\\miram\\OneDrive\\1ITC\\1ITC\\1itc_RPG\\1itc_RPG\\1itc_RPG.csproj",
         "packagesPath": "C:\\Users\\miram\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\miram\\source\\repos\\1itc_RPG\\1itc_RPG\\obj\\",
+        "outputPath": "C:\\Users\\miram\\OneDrive\\1ITC\\1ITC\\1itc_RPG\\1itc_RPG\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\miram\\AppData\\Roaming\\NuGet\\NuGet.Config",

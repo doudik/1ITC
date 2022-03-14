@@ -10,14 +10,16 @@ namespace _1itc_RPG
     internal class Nepritel
     {
         Random rnd = new Random();
-        float hp;
-        int dmg;
-        int lvl;
+        public string priserka;
+        public float hp;
+        public int dmg;
+        public int lvl;
         float xp;
-
+        string[] priserky = {"Kostlivec", "Bojovník", "Mág", "Zombík", "Creeper", "Pavouk"};
         public Nepritel(Hrac h) {
-            hp = h.hp*rnd.Next()*1.5f;
-            lvl = h.lvl*rnd.Next()*4;
+            priserka = priserky[rnd.Next(0, priserky.Length)];
+            hp = h.hp * rnd.Next(1, 3);
+            lvl = h.lvl*rnd.Next(0,4);
             dmg = rnd.Next(0, 20) * lvl;
             xp = hp + lvl + dmg;
         }

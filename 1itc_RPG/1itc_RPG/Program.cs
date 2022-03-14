@@ -3,8 +3,8 @@
 class Program {
     static void Main(string[] args)
     {
-        Hrac p1 = new Hrac("Bajaja");
+        Hrac h = new Hrac("Bajaja");
         Rozhovor r = new Rozhovor();
-        r.Dialog(p1);
+        r.Dialog(h);
     }
 }

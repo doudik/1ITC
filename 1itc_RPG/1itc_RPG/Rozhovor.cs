@@ -19,11 +19,17 @@ namespace _1itc_RPG
         {
             Console.WriteLine("Tvoje HP: {0} \n" +
                 "DMG: {1} \n LvL: {2} \n XP: {3} \n XP do dalšího lvl: {4}\n " +
-                "Mana: {5}",
+                "Mana: {5}\n\n",
                 h.hp, h.dmg, h.lvl, h.experience, h.expToNextLvl, h.mana);
+            VytvorNepritele(h);
         }
         void VytvorNepritele(Hrac h) {
-            Nepritel kostlivec = new Nepritel(h);
+            Nepritel n1 = new Nepritel(h);
+            Console.WriteLine("-------------------------------\n" +
+                "Potkal si: {0}\n" +
+                "HP: {1}\n"
+                + "DMG: {2}\n" +
+                "LvL: {3}",n1.priserka, n1.hp, n1.dmg, n1.lvl);
         }
     }
 }
