@@ -1,0 +1,15 @@
+C:\Users\miram\source\repos\1itc_RPG\1itc_RPG\bin\Debug\net6.0\1itc_RPG.exe
+C:\Users\miram\source\repos\1itc_RPG\1itc_RPG\bin\Debug\net6.0\1itc_RPG.deps.json
+C:\Users\miram\source\repos\1itc_RPG\1itc_RPG\bin\Debug\net6.0\1itc_RPG.runtimeconfig.json
+C:\Users\miram\source\repos\1itc_RPG\1itc_RPG\bin\Debug\net6.0\1itc_RPG.dll
+C:\Users\miram\source\repos\1itc_RPG\1itc_RPG\bin\Debug\net6.0\ref\1itc_RPG.dll
+C:\Users\miram\source\repos\1itc_RPG\1itc_RPG\bin\Debug\net6.0\1itc_RPG.pdb
+C:\Users\miram\source\repos\1itc_RPG\1itc_RPG\obj\Debug\net6.0\1itc_RPG.csproj.AssemblyReference.cache
+C:\Users\miram\source\repos\1itc_RPG\1itc_RPG\obj\Debug\net6.0\1itc_RPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miram\source\repos\1itc_RPG\1itc_RPG\obj\Debug\net6.0\1itc_RPG.AssemblyInfoInputs.cache
+C:\Users\miram\source\repos\1itc_RPG\1itc_RPG\obj\Debug\net6.0\1itc_RPG.AssemblyInfo.cs
+C:\Users\miram\source\repos\1itc_RPG\1itc_RPG\obj\Debug\net6.0\1itc_RPG.csproj.CoreCompileInputs.cache
+C:\Users\miram\source\repos\1itc_RPG\1itc_RPG\obj\Debug\net6.0\1itc_RPG.dll
+C:\Users\miram\source\repos\1itc_RPG\1itc_RPG\obj\Debug\net6.0\ref\1itc_RPG.dll
+C:\Users\miram\source\repos\1itc_RPG\1itc_RPG\obj\Debug\net6.0\1itc_RPG.pdb
+C:\Users\miram\source\repos\1itc_RPG\1itc_RPG\obj\Debug\net6.0\1itc_RPG.genruntimeconfig.cache
