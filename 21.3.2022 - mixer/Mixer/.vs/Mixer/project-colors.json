@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2c56fbe4-7117-44da-987c-8ed42dd7a4f9": {
+      "ProjectGuid": "2c56fbe4-7117-44da-987c-8ed42dd7a4f9",
+      "DisplayName": "Mixer",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
