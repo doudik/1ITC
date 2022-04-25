@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bankovni_appka_misa", "bankovni_appka_misa\bankovni_appka_misa.csproj", "{B4D2FC6A-8A55-4299-960E-1604CE8EF22B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4D2FC6A-8A55-4299-960E-1604CE8EF22B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4D2FC6A-8A55-4299-960E-1604CE8EF22B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4D2FC6A-8A55-4299-960E-1604CE8EF22B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4D2FC6A-8A55-4299-960E-1604CE8EF22B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F0450C5C-8916-468A-9702-C33FAB8964CE}
+	EndGlobalSection
+EndGlobal

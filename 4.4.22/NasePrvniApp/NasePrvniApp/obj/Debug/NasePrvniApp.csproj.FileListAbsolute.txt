@@ -1,0 +1,11 @@
+C:\Users\miram\OneDrive\1ITC\1ITC\4.4.22\NasePrvniApp\NasePrvniApp\bin\Debug\NasePrvniApp.exe.config
+C:\Users\miram\OneDrive\1ITC\1ITC\4.4.22\NasePrvniApp\NasePrvniApp\bin\Debug\NasePrvniApp.exe
+C:\Users\miram\OneDrive\1ITC\1ITC\4.4.22\NasePrvniApp\NasePrvniApp\bin\Debug\NasePrvniApp.pdb
+C:\Users\miram\OneDrive\1ITC\1ITC\4.4.22\NasePrvniApp\NasePrvniApp\obj\Debug\NasePrvniApp.csproj.AssemblyReference.cache
+C:\Users\miram\OneDrive\1ITC\1ITC\4.4.22\NasePrvniApp\NasePrvniApp\obj\Debug\NasePrvniApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\miram\OneDrive\1ITC\1ITC\4.4.22\NasePrvniApp\NasePrvniApp\obj\Debug\NasePrvniApp.Properties.Resources.resources
+C:\Users\miram\OneDrive\1ITC\1ITC\4.4.22\NasePrvniApp\NasePrvniApp\obj\Debug\NasePrvniApp.csproj.GenerateResource.cache
+C:\Users\miram\OneDrive\1ITC\1ITC\4.4.22\NasePrvniApp\NasePrvniApp\obj\Debug\NasePrvniApp.csproj.CoreCompileInputs.cache
+C:\Users\miram\OneDrive\1ITC\1ITC\4.4.22\NasePrvniApp\NasePrvniApp\obj\Debug\NasePrvniApp.exe
+C:\Users\miram\OneDrive\1ITC\1ITC\4.4.22\NasePrvniApp\NasePrvniApp\obj\Debug\NasePrvniApp.pdb
+C:\Users\miram\OneDrive\1ITC\1ITC\4.4.22\NasePrvniApp\NasePrvniApp\obj\Debug\NasePrvniApp.Form1.resources

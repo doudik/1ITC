@@ -1,0 +1,15 @@
+C:\Users\miram\OneDrive\1ITC\1ITC\25.04.22\NovaLatka\NovaLatka\bin\Debug\net6.0\NovaLatka.exe
+C:\Users\miram\OneDrive\1ITC\1ITC\25.04.22\NovaLatka\NovaLatka\bin\Debug\net6.0\NovaLatka.deps.json
+C:\Users\miram\OneDrive\1ITC\1ITC\25.04.22\NovaLatka\NovaLatka\bin\Debug\net6.0\NovaLatka.runtimeconfig.json
+C:\Users\miram\OneDrive\1ITC\1ITC\25.04.22\NovaLatka\NovaLatka\bin\Debug\net6.0\NovaLatka.dll
+C:\Users\miram\OneDrive\1ITC\1ITC\25.04.22\NovaLatka\NovaLatka\bin\Debug\net6.0\ref\NovaLatka.dll
+C:\Users\miram\OneDrive\1ITC\1ITC\25.04.22\NovaLatka\NovaLatka\bin\Debug\net6.0\NovaLatka.pdb
+C:\Users\miram\OneDrive\1ITC\1ITC\25.04.22\NovaLatka\NovaLatka\obj\Debug\net6.0\NovaLatka.csproj.AssemblyReference.cache
+C:\Users\miram\OneDrive\1ITC\1ITC\25.04.22\NovaLatka\NovaLatka\obj\Debug\net6.0\NovaLatka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miram\OneDrive\1ITC\1ITC\25.04.22\NovaLatka\NovaLatka\obj\Debug\net6.0\NovaLatka.AssemblyInfoInputs.cache
+C:\Users\miram\OneDrive\1ITC\1ITC\25.04.22\NovaLatka\NovaLatka\obj\Debug\net6.0\NovaLatka.AssemblyInfo.cs
+C:\Users\miram\OneDrive\1ITC\1ITC\25.04.22\NovaLatka\NovaLatka\obj\Debug\net6.0\NovaLatka.csproj.CoreCompileInputs.cache
+C:\Users\miram\OneDrive\1ITC\1ITC\25.04.22\NovaLatka\NovaLatka\obj\Debug\net6.0\NovaLatka.dll
+C:\Users\miram\OneDrive\1ITC\1ITC\25.04.22\NovaLatka\NovaLatka\obj\Debug\net6.0\ref\NovaLatka.dll
+C:\Users\miram\OneDrive\1ITC\1ITC\25.04.22\NovaLatka\NovaLatka\obj\Debug\net6.0\NovaLatka.pdb
+C:\Users\miram\OneDrive\1ITC\1ITC\25.04.22\NovaLatka\NovaLatka\obj\Debug\net6.0\NovaLatka.genruntimeconfig.cache

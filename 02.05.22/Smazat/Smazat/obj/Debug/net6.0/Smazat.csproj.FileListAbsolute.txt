@@ -1,0 +1,15 @@
+C:\Users\miram\OneDrive\1ITC\1ITC\02.05.22\Smazat\Smazat\bin\Debug\net6.0\Smazat.exe
+C:\Users\miram\OneDrive\1ITC\1ITC\02.05.22\Smazat\Smazat\bin\Debug\net6.0\Smazat.deps.json
+C:\Users\miram\OneDrive\1ITC\1ITC\02.05.22\Smazat\Smazat\bin\Debug\net6.0\Smazat.runtimeconfig.json
+C:\Users\miram\OneDrive\1ITC\1ITC\02.05.22\Smazat\Smazat\bin\Debug\net6.0\Smazat.dll
+C:\Users\miram\OneDrive\1ITC\1ITC\02.05.22\Smazat\Smazat\bin\Debug\net6.0\ref\Smazat.dll
+C:\Users\miram\OneDrive\1ITC\1ITC\02.05.22\Smazat\Smazat\bin\Debug\net6.0\Smazat.pdb
+C:\Users\miram\OneDrive\1ITC\1ITC\02.05.22\Smazat\Smazat\obj\Debug\net6.0\Smazat.csproj.AssemblyReference.cache
+C:\Users\miram\OneDrive\1ITC\1ITC\02.05.22\Smazat\Smazat\obj\Debug\net6.0\Smazat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miram\OneDrive\1ITC\1ITC\02.05.22\Smazat\Smazat\obj\Debug\net6.0\Smazat.AssemblyInfoInputs.cache
+C:\Users\miram\OneDrive\1ITC\1ITC\02.05.22\Smazat\Smazat\obj\Debug\net6.0\Smazat.AssemblyInfo.cs
+C:\Users\miram\OneDrive\1ITC\1ITC\02.05.22\Smazat\Smazat\obj\Debug\net6.0\Smazat.csproj.CoreCompileInputs.cache
+C:\Users\miram\OneDrive\1ITC\1ITC\02.05.22\Smazat\Smazat\obj\Debug\net6.0\Smazat.dll
+C:\Users\miram\OneDrive\1ITC\1ITC\02.05.22\Smazat\Smazat\obj\Debug\net6.0\ref\Smazat.dll
+C:\Users\miram\OneDrive\1ITC\1ITC\02.05.22\Smazat\Smazat\obj\Debug\net6.0\Smazat.pdb
+C:\Users\miram\OneDrive\1ITC\1ITC\02.05.22\Smazat\Smazat\obj\Debug\net6.0\Smazat.genruntimeconfig.cache

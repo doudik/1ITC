@@ -31,5 +31,9 @@ namespace _1itc_RPG
                 + "DMG: {2}\n" +
                 "LvL: {3}",n1.priserka, n1.hp, n1.dmg, n1.lvl);
         }
+
+        void CombatSystem(Hrac h, Nepritel n) {
+            
+        }
     }
 }

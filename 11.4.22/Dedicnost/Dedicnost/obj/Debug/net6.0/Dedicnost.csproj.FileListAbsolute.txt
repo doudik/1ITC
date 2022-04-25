@@ -1,0 +1,15 @@
+C:\Users\miram\OneDrive\1ITC\1ITC\11.4.22\Dedicnost\Dedicnost\bin\Debug\net6.0\Dedicnost.exe
+C:\Users\miram\OneDrive\1ITC\1ITC\11.4.22\Dedicnost\Dedicnost\bin\Debug\net6.0\Dedicnost.deps.json
+C:\Users\miram\OneDrive\1ITC\1ITC\11.4.22\Dedicnost\Dedicnost\bin\Debug\net6.0\Dedicnost.runtimeconfig.json
+C:\Users\miram\OneDrive\1ITC\1ITC\11.4.22\Dedicnost\Dedicnost\bin\Debug\net6.0\Dedicnost.dll
+C:\Users\miram\OneDrive\1ITC\1ITC\11.4.22\Dedicnost\Dedicnost\bin\Debug\net6.0\ref\Dedicnost.dll
+C:\Users\miram\OneDrive\1ITC\1ITC\11.4.22\Dedicnost\Dedicnost\bin\Debug\net6.0\Dedicnost.pdb
+C:\Users\miram\OneDrive\1ITC\1ITC\11.4.22\Dedicnost\Dedicnost\obj\Debug\net6.0\Dedicnost.csproj.AssemblyReference.cache
+C:\Users\miram\OneDrive\1ITC\1ITC\11.4.22\Dedicnost\Dedicnost\obj\Debug\net6.0\Dedicnost.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miram\OneDrive\1ITC\1ITC\11.4.22\Dedicnost\Dedicnost\obj\Debug\net6.0\Dedicnost.AssemblyInfoInputs.cache
+C:\Users\miram\OneDrive\1ITC\1ITC\11.4.22\Dedicnost\Dedicnost\obj\Debug\net6.0\Dedicnost.AssemblyInfo.cs
+C:\Users\miram\OneDrive\1ITC\1ITC\11.4.22\Dedicnost\Dedicnost\obj\Debug\net6.0\Dedicnost.csproj.CoreCompileInputs.cache
+C:\Users\miram\OneDrive\1ITC\1ITC\11.4.22\Dedicnost\Dedicnost\obj\Debug\net6.0\Dedicnost.dll
+C:\Users\miram\OneDrive\1ITC\1ITC\11.4.22\Dedicnost\Dedicnost\obj\Debug\net6.0\ref\Dedicnost.dll
+C:\Users\miram\OneDrive\1ITC\1ITC\11.4.22\Dedicnost\Dedicnost\obj\Debug\net6.0\Dedicnost.pdb
+C:\Users\miram\OneDrive\1ITC\1ITC\11.4.22\Dedicnost\Dedicnost\obj\Debug\net6.0\Dedicnost.genruntimeconfig.cache
