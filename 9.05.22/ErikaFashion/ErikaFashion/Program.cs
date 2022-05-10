@@ -3,6 +3,7 @@
         static void Main(string[] args) 
         {
             Uzivatel Fanda = new Uzivatel("Fanda", 15, "fan", "fanda.novak@seznam.cz", "fandajebuh123");
+            Kosik.PridejDoKosiku("adawd", "asdawdqdq", 10);
         }
     }
 }

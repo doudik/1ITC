@@ -20,7 +20,8 @@ namespace ErikaFashion
             kredit = 0;
         }
         private bool CheckCoupon(string coupon) {
-            if()
+            //TODO
+            return true;
         }
     }
 }

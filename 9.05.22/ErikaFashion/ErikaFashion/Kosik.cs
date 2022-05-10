@@ -25,19 +25,28 @@ namespace ErikaFashion
             return "Kupon nebyl nalezen!";
         }
         //TODO Kosik
-        IDictionary<string, IDictionary<string, int>> kosik = new Dictionary<string, IDictionary<string,int>>();
-        IDictionary<string, int> velikostiAKs = new Dictionary<string, int>();
-        void PridejDoKosiku(string item, string velikost, int ks) {
-            if (Sklad.ZkontrolujZasoby(item, velikost, ks) == true) {
-                velikostiAKs.Add(velikost, ks);
-                kosik.Add(item, velikostiAKs);
-            }
-        }asda
+        static IDictionary<string, IDictionary<string, int>> kosik = new Dictionary<string, IDictionary<string,int>>();
+        static IDictionary<string, int> velikostiAKs = new Dictionary<string, int>();
+        public static void PridejDoKosiku(string item, string velikost, int ks) {
+            //if (Sklad.ZkontrolujZasoby(item, velikost, ks) == true) {
+                //velikostiAKs.Add(velikost, ks);
+                //kosik.Add(item, velikostiAKs);
+                IDictionary<string, int> dic = new Dictionary<string, int>();
+                dic.Add("P", 10);
+                kosik.Add("ABCD", dic);
+            kosik["ABCD"]["P"] -= 2;
+            VypisKosik();
+            //}
+        }
+        static void VypisKosik()
+        {
+            Console.WriteLine(kosik["ABCD"]["P"]);
+        }
         //TODO Zaplat
         private void Zaplat() {
             foreach (var item in kosik) { 
                 
-            }a
+            }
         }
 
     }

@@ -1,0 +1,15 @@
+C:\Users\miram\OneDrive\1ITC\1ITC\9.05.22\ErikaFashion\ErikaFashion\obj\Debug\net6.0\ErikaFashion.csproj.AssemblyReference.cache
+C:\Users\miram\OneDrive\1ITC\1ITC\9.05.22\ErikaFashion\ErikaFashion\obj\Debug\net6.0\ErikaFashion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miram\OneDrive\1ITC\1ITC\9.05.22\ErikaFashion\ErikaFashion\obj\Debug\net6.0\ErikaFashion.AssemblyInfoInputs.cache
+C:\Users\miram\OneDrive\1ITC\1ITC\9.05.22\ErikaFashion\ErikaFashion\obj\Debug\net6.0\ErikaFashion.AssemblyInfo.cs
+C:\Users\miram\OneDrive\1ITC\1ITC\9.05.22\ErikaFashion\ErikaFashion\obj\Debug\net6.0\ErikaFashion.csproj.CoreCompileInputs.cache
+C:\Users\miram\OneDrive\1ITC\1ITC\9.05.22\ErikaFashion\ErikaFashion\bin\Debug\net6.0\ErikaFashion.exe
+C:\Users\miram\OneDrive\1ITC\1ITC\9.05.22\ErikaFashion\ErikaFashion\bin\Debug\net6.0\ErikaFashion.deps.json
+C:\Users\miram\OneDrive\1ITC\1ITC\9.05.22\ErikaFashion\ErikaFashion\bin\Debug\net6.0\ErikaFashion.runtimeconfig.json
+C:\Users\miram\OneDrive\1ITC\1ITC\9.05.22\ErikaFashion\ErikaFashion\bin\Debug\net6.0\ErikaFashion.dll
+C:\Users\miram\OneDrive\1ITC\1ITC\9.05.22\ErikaFashion\ErikaFashion\bin\Debug\net6.0\ref\ErikaFashion.dll
+C:\Users\miram\OneDrive\1ITC\1ITC\9.05.22\ErikaFashion\ErikaFashion\bin\Debug\net6.0\ErikaFashion.pdb
+C:\Users\miram\OneDrive\1ITC\1ITC\9.05.22\ErikaFashion\ErikaFashion\obj\Debug\net6.0\ErikaFashion.dll
+C:\Users\miram\OneDrive\1ITC\1ITC\9.05.22\ErikaFashion\ErikaFashion\obj\Debug\net6.0\ref\ErikaFashion.dll
+C:\Users\miram\OneDrive\1ITC\1ITC\9.05.22\ErikaFashion\ErikaFashion\obj\Debug\net6.0\ErikaFashion.pdb
+C:\Users\miram\OneDrive\1ITC\1ITC\9.05.22\ErikaFashion\ErikaFashion\obj\Debug\net6.0\ErikaFashion.genruntimeconfig.cache
